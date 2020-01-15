@@ -21,5 +21,5 @@ def nyc_pigeon_organizer(old_hash)
       end
     end
   end
-  returned_hash
+
 end
